@@ -1,0 +1,82 @@
+{
+    "101": {
+        "name": "Asha Nair",
+        "marks": {
+            "Python": 82.0,
+            "Maths": 74.0,
+            "Statistics": 88.0,
+            "English": 79.0,
+            "Computer Fundamentals": 85.0
+        }
+    },
+    "102": {
+        "name": "Ravi Kumar",
+        "marks": {
+            "Python": 95.0,
+            "Maths": 90.0,
+            "Statistics": 85.0,
+            "English": 88.0,
+            "Computer Fundamentals": 83.0
+        }
+    },
+    "103": {
+        "name": "Meena Joseph",
+        "marks": {
+            "Python": 48.0,
+            "Maths": 45.0,
+            "Statistics": 55.0,
+            "English": 52.0,
+            "Computer Fundamentals": 40.0
+        }
+    },
+    "104": {
+        "name": "Kiran Reddy",
+        "marks": {
+            "Python": 67.0,
+            "Maths": 72.0,
+            "Statistics": 60.0,
+            "English": 70.0,
+            "Computer Fundamentals": 74.0
+        }
+    },
+    "105": {
+        "name": "Fatima Sheikh",
+        "marks": {
+            "Python": 91.0,
+            "Maths": 86.0,
+            "Statistics": 94.0,
+            "English": 89.0,
+            "Computer Fundamentals": 92.0
+        }
+    },
+    "106": {
+        "name": "Arjun Menon",
+        "marks": {
+            "Python": 58.0,
+            "Maths": 35.0,
+            "Statistics": 62.0,
+            "English": 66.0,
+            "Computer Fundamentals": 59.0
+        }
+    },
+    "107": {
+        "name": "Sneha Pillai",
+        "marks": {
+            "Python": 76.0,
+            "Maths": 81.0,
+            "Statistics": 70.0,
+            "English": 84.0,
+            "Computer Fundamentals": 78.0
+        }
+    },
+    "108": {
+        "name": "Rohan Das",
+        "marks": {
+            "Python": 64.0,
+            "Maths": 59.0,
+            "Statistics": 68.0,
+            "English": 61.0,
+            "Computer Fundamentals": 70.0
+        }
+    }
+}
